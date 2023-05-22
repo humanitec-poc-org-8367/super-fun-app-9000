@@ -1,0 +1,7 @@
+site_name: 'super-fun-app-9000 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
